@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ## Intro
 This is just filler text 
 ## How to contribute
+
+## added copyright notice
