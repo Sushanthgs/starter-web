@@ -13,5 +13,6 @@ This is just filler text
 ## added copyright notice
 fork and issue pull request for review
 adding some more text 
+all rights reserved
 
 #added new line for rebasing adding more
